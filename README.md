@@ -1,1 +1,1 @@
-# publicaitons
+# Repository for the published works
