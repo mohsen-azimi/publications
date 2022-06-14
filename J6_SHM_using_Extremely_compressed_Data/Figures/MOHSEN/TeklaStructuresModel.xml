@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TeklaStructuresModels>
+<TeklaStructuresModels>
+<Model>
+<Name>
+MOHSEN
+</Name>
+<Designer>
+Structural Engineer
+</Designer>
+<Description>
+
+</Description>
+<Version>
+19.0 Service Release 7
+</Version>
+<Language>
+enu
+</Language>
+<Template>
+
+</Template>
+<Environment>
+middle_east
+</Environment>
+<IsTemplate>
+FALSE
+</IsTemplate>
+<XS_PROJECT>
+
+</XS_PROJECT>
+<XS_FIRM>
+
+</XS_FIRM>
+<XS_SYSTEM>
+C:\TeklaStructures\19.0\\environments\middle_east\system\;C:\TeklaStructures\19.0\\environments\middle_east\role\Steel_Detailer\;C:\TeklaStructures\19.0\\environments\middle_east\role\Precast_Detailer\;C:\TeklaStructures\19.0\\environments\middle_east\rol
+</XS_SYSTEM>
+</Model>
+</TeklaStructuresModels>
+
